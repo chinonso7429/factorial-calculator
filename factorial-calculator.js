@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 let num =2
 function factorialCalculator(n){if (n === 0 || n === 1) return 1;
@@ -12,5 +12,5 @@ const factorial = factorialCalculator(num);
 const resultMsg = `Factorial of ${num} is ${factorial}`;
 console.log(resultMsg);
 
-** end of script.js **
+
 
